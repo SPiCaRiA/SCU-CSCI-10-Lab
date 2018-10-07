@@ -130,7 +130,7 @@ Enter the initial height: 10
 
 Graph from [shodor](http://www.shodor.org/interactivate/activities/SimplePlot/):
 
-![lab03A2 graph](images/lab03A2_graph.png)
+![lab03A2 graph](images/lab03A24_graph.png)
 
 
 ### 3.
