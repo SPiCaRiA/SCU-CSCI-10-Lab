@@ -61,7 +61,7 @@ Error:
 Line 20, inside `fun`, `a` is not defined or passsed as argument in `fun`.
 
 Memory:
-[Memory](images/lab05A.jpg)
+![Memory](images/lab05A.jpg)
 
 ## Part B
 
@@ -129,7 +129,7 @@ Error:
 Line 15, inside `main`, a reference is required, while a literal is passed in.
 
 Memory:
-[Memory](images/lab05B.jpg)
+![Memory](images/lab05B.jpg)
 
 ## Part C
 
