@@ -181,7 +181,7 @@ ENDFUNC
 
 ### 2.
 
-[lab07B2.cpp](code/lab07B2.cpp):
+[lab07B2.cpp](code/partB/lab07B2.cpp):
 
 ```cpp
 #include <iostream>
@@ -238,7 +238,7 @@ ENDFUNC
 
 ### 4.
 
-[lab07B4.cpp](code/lab07B4.cpp):
+[lab07B4.cpp](code/partB/lab07B4.cpp):
 
 ```cpp
 #include <iostream>
