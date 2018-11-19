@@ -10,4 +10,5 @@ Lin Weixuan, Lucas Negritto
 - [Lab 06](lab06/lab06report.md)
 - [Lab 07](lab07/lab07report.md)
 - [Lab 08](lab08/lab08report.md)
+- [Lab 09](lab09/lab09report.md)
 
